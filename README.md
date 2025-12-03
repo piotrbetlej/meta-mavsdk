@@ -65,6 +65,7 @@ We have successfully cross-compiled and tested images utilizing these recipes ac
 | :--- | :--- | :--- |
 | **x86-64** | Standard PC/Server (QEMU, General PURPOSE) | **PASS** |
 | **aarch64** | Radxa Zero 3W (Rockchip RK3566) | **PASS** |
+| **armhf** | BeagleBoneBlack | **PASS** |
 
 The recipes are optimized to ensure **low footprint** and **high reliability** for embedded systems like companion computers on drones.
 
